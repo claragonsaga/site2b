@@ -1,0 +1,22 @@
+body{
+  background-color: lightcoral;
+}
+button{
+  font-size: 20px;
+  background-color: pink;
+  color: black;
+}
+img{
+  block-size: 500px;
+  border-radius: 25px;
+}
+h1{
+  font-family: italic;
+  font-size: 25px;
+  color: white;
+}
+table{
+  font-size: 40px;
+  background-color: lightblue;
+  color: black;
+}
